@@ -1,4 +1,4 @@
-# javascript-budjet
+# javascript-budget
 Making a budget for myself so I can learn the basics of JavaScript.
 
 Structuring the the code with modules.
