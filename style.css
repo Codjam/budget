@@ -32,7 +32,7 @@ body {
 **********************************************/
 
 .top {
-    height: 50vh;
+    height: 40vh;
     background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url(Ocean.png);
     background-size: cover;
     background-position: center;
@@ -113,16 +113,10 @@ body {
 **********************************************/
 
 /***** FORM *****/
-
-
-
-
-
 .add {
     padding: 14px;
     border-bottom: 1px solid #e7e7e7;
     background-color: #f7f7f7;
-
 }
 
 .add__container {
